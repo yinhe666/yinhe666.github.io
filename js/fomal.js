@@ -3452,7 +3452,7 @@ function createWinbox() {
 <h3>6. 适配手机</h3>
 <details class="folding-tag" cyan><summary> 查看适配手机的背景 </summary>
               <div class='content'>
-              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://lskypro.acozycotage.net/Fomalhaut/img/mb4.webp)" class="pimgbox" onclick="changeBg('url(https://lskypro.acozycotage.net/Fomalhaut/img/mb4.webp)')"></a></div>
+              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://tuchuang.voooe.cn/images/2024/08/25/377795DE57D459B42A14F3DF268B0603-01.jpg)" class="pimgbox" onclick="changeBg('url(https://tuchuang.voooe.cn/images/2024/08/25/377795DE57D459B42A14F3DF268B0603-01.jpg)')"></a></div>
               </div>
             </details>
 

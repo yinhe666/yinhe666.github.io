@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.kanziyuan.cn/posts/2024rj.html</loc>
+    <loc>https://www.kanziyuan.cn/site/mianze/index.html</loc>
     
     <lastmod>2024-08-25</lastmod>
     
@@ -11,27 +11,36 @@
   </url>
   
   <url>
-    <loc>https://www.kanziyuan.cn/posts/0.html</loc>
+    <loc>https://www.kanziyuan.cn/personal/about/index.html</loc>
     
-    <lastmod>2024-08-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kanziyuan.cn/posts/0.html</loc>
-    
-    <lastmod>2024-08-24</lastmod>
+    <lastmod>2024-08-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.kanziyuan.cn/posts/0.html</loc>
+    <loc>https://www.kanziyuan.cn/personal/shuaige/index.html</loc>
     
-    <lastmod>2024-08-24</lastmod>
+    <lastmod>2024-08-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kanziyuan.cn/social/link/index.html</loc>
+    
+    <lastmod>2024-08-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kanziyuan.cn/posts/2024rj.html</loc>
+    
+    <lastmod>2024-08-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -56,24 +65,6 @@
   </url>
   
   <url>
-    <loc>https://www.kanziyuan.cn/social/link/index.html</loc>
-    
-    <lastmod>2024-08-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kanziyuan.cn/site/time/index.html</loc>
-    
-    <lastmod>2024-08-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.kanziyuan.cn/social/fcircle/index.html</loc>
     
     <lastmod>2024-08-21</lastmod>
@@ -84,24 +75,6 @@
   
   <url>
     <loc>https://www.kanziyuan.cn/site/census/index.html</loc>
-    
-    <lastmod>2024-08-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kanziyuan.cn/personal/love/index.html</loc>
-    
-    <lastmod>2024-08-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kanziyuan.cn/personal/about/index.html</loc>
     
     <lastmod>2024-08-21</lastmod>
     
