@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.kanziyuan.cn/posts/2204yx.html</loc>
+    
+    <lastmod>2024-08-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kanziyuan.cn/posts/2204ai.html</loc>
+    
+    <lastmod>2024-08-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.kanziyuan.cn/site/mianze/index.html</loc>
     
     <lastmod>2024-08-25</lastmod>
@@ -41,15 +59,6 @@
     <loc>https://www.kanziyuan.cn/posts/2024rj.html</loc>
     
     <lastmod>2024-08-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kanziyuan.cn/posts/2204yx.html</loc>
-    
-    <lastmod>2024-08-24</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -200,6 +209,20 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://www.kanziyuan.cn/tags/AI/</loc>
+    <lastmod>2024-08-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kanziyuan.cn/tags/MJ%C2%B7SD%C2%B7GPT/</loc>
+    <lastmod>2024-08-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -211,6 +234,13 @@
   
   <url>
     <loc>https://www.kanziyuan.cn/categories/%E8%BD%AF%E4%BB%B6/</loc>
+    <lastmod>2024-08-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kanziyuan.cn/categories/AI/</loc>
     <lastmod>2024-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
