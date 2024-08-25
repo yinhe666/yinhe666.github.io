@@ -2,18 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.kanziyuan.cn/posts/0.html</loc>
+    <loc>https://www.kanziyuan.cn/posts/2024rj.html</loc>
     
-    <lastmod>2024-08-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kanziyuan.cn/posts/0.html</loc>
-    
-    <lastmod>2024-08-24</lastmod>
+    <lastmod>2024-08-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -38,7 +29,16 @@
   </url>
   
   <url>
-    <loc>https://www.kanziyuan.cn/posts/2013454d.html</loc>
+    <loc>https://www.kanziyuan.cn/posts/0.html</loc>
+    
+    <lastmod>2024-08-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kanziyuan.cn/posts/2204yx.html</loc>
     
     <lastmod>2024-08-24</lastmod>
     
@@ -182,15 +182,6 @@
   </url>
   
   <url>
-    <loc>https://www.kanziyuan.cn/posts/2013454d.html</loc>
-    
-    <lastmod>2022-10-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.kanziyuan.cn/site/echarts/index.html</loc>
     
     <lastmod>2022-09-10</lastmod>
@@ -209,14 +200,28 @@
 
   
   <url>
-    <loc>https://www.kanziyuan.cn/tags/Markdown/</loc>
+    <loc>https://www.kanziyuan.cn/tags/%E7%94%B5%E8%84%91/</loc>
     <lastmod>2024-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.kanziyuan.cn/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/</loc>
+    <loc>https://www.kanziyuan.cn/tags/%E6%89%8B%E6%9C%BA/</loc>
+    <lastmod>2024-08-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kanziyuan.cn/tags/Steam/</loc>
+    <lastmod>2024-08-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kanziyuan.cn/tags/Switch/</loc>
     <lastmod>2024-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -225,14 +230,14 @@
 
   
   <url>
-    <loc>https://www.kanziyuan.cn/categories/%E6%BC%94%E7%A4%BA/</loc>
+    <loc>https://www.kanziyuan.cn/categories/%E6%B8%B8%E6%88%8F/</loc>
     <lastmod>2024-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.kanziyuan.cn/categories/%E6%B8%B8%E6%88%8F/</loc>
+    <loc>https://www.kanziyuan.cn/categories/%E8%BD%AF%E4%BB%B6/</loc>
     <lastmod>2024-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
